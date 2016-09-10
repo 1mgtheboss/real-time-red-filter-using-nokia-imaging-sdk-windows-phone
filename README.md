@@ -1,4 +1,3 @@
-Real-time RED Filter Using Nokia Imaging SDK
-============================================
-
-Implementation of real-time red filter using Nokia Imaging SDK.
+real-time-red-filter-using-nokia-imaging-sdk-windows-phone
+==========================================================
+© Manojit Ghosh
